@@ -1,0 +1,7 @@
+{
+	"to": "Bom",
+	"from": "Thiporia",
+	"heading": "Remainder",
+	"body": [1, 2, 3],
+  "obj": { "a": "alpha a", "b": "alpha b" }
+}
